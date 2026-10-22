@@ -1,7 +1,7 @@
 # Java + DSA Learning Repo
 
-**Remote:** [jatin-prajapati/Java-Learning](https://origin.cursor.com/jatin-prajapati/Java-Learning) on Cursor Origin  
-Clone: `git clone https://origin.cursor.com/jatin-prajapati/Java-Learning.git`
+**Remote:** [Jatinprajapati7869/DSA](https://github.com/Jatinprajapati7869/DSA)  
+Clone: `git clone https://github.com/Jatinprajapati7869/DSA.git`
 
 My own code, organised by topic so I can revise fast. One concept per file.
 Every file = **my original code** (only the `//` comment markers removed so it runs, and the class renamed to match the file name).
