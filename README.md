@@ -1,5 +1,8 @@
 # Java + DSA Learning Repo
 
+**Remote:** [jatin-prajapati/Java-Learning](https://origin.cursor.com/jatin-prajapati/Java-Learning) on Cursor Origin  
+Clone: `git clone https://origin.cursor.com/jatin-prajapati/Java-Learning.git`
+
 My own code, organised by topic so I can revise fast. One concept per file.
 Every file = **my original code** (only the `//` comment markers removed so it runs, and the class renamed to match the file name).
 At the bottom of each file there is an **AI REVISION NOTES** block (complexity, interview tips, bugs I should know about). Nothing above it is AI written.
